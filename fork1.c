@@ -17,7 +17,7 @@ int main()
             exit(1);
         case 0:
             message = "This is the child";
-            n = 5;
+            n = 3;
             break;
         default:
             message = "This is the parent";
